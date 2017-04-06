@@ -8,5 +8,5 @@
 
 import Foundation
 
-
-
+let c = payment(rate: 0.064, times: 48, debt: 1_000_000)
+print(c)
